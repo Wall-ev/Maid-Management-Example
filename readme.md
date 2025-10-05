@@ -10,6 +10,7 @@ KJS服务员版本？额，还在研究中，不过我相信你们能够根据�
 女仆仓管的合成指南：[MaidStorageManger Docs](https://github.com/zxy19/maid_storage_manager/tree/master/docs)（如果女仆厨房里没有你所需要的模组的支持，你可以根据这个来写支持；女仆厨房写的有问题的，那你也自己写一个新的，然后在女仆仓管配置里禁用女仆厨房所支持的那个）<br>
 女仆厨房所支持的模组列表：[MaidStorageManager Compat](https://github.com/Wall-ev/MaidsoulKitchen/tree/1.20.1-1.0-dev/Main/src/main/java/com/github/wallev/maidsoulkitchen/compat/msm)（如果没有你需要的模组的支持，你可以在[Kitchen Mod Support](https://github.com/Wall-ev/MaidsoulKitchen/issues/6)提交请求，或者根据上述所调整）<br>
 女仆服务员的模组示例：[maidwaitress](https://github.com/Wall-ev/maidwaitress)<br>
+女仆服务员的KJS示例：[Maid-Management](https://github.com/Wall-ev/Maid-Management)(但发现还是有些麻烦，所以没写完，具体内容可以去仓库查看)<br>
 整合包示例：[modpack](./modpack)<br>
 
 如果你在开发过程中需要什么事件支持的，都可以在相关仓库下提issue，我们很欢迎您的提议。
